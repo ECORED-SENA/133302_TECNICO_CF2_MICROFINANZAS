@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="77" viewBox="0 0 252 77">
+  <g id="Grupo_21280" data-name="Grupo 21280" transform="translate(-422 -3959)">
+    <rect id="Rectángulo_4844" data-name="Rectángulo 4844" width="252" height="77" transform="translate(422 3959)" fill="#fae7b7"/>
+    <text id="Monto_a_pagar:_C_1_i_n" data-name="Monto a pagar: C*(1+i)n" transform="translate(444 4004)" fill="#00223d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Monto a pagar: C*(1+i)</tspan><tspan y="0" font-size="10.499" baseline-shift="5.999400079342301">n</tspan></text>
+  </g>
+</svg>

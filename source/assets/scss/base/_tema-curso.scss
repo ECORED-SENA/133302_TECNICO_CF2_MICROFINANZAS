@@ -1,0 +1,149 @@
+//Colores base del material de formación
+$brand-color-dark:#FFC558;
+$text-color-dark: #00223D;
+
+
+//Esto lo puede cambiar poe el color que quiera q sugiera el tema. (sE QUITA EL lighten)
+$brand-color-light: #E6EEF3;
+$text-color-light: $primary;
+$brand-color-secondary: #7CA7C9;
+
+.sub-ecored {
+    h2,h3 {
+        overflow: hidden;
+        font-weight: 700;
+    }
+
+    h2:after,h3:after {
+        content:"";
+        display: inline-block;
+        height: 0.5em;
+        vertical-align: bottom;
+        width: 100%;
+        margin-right: -100%;
+        margin-left: 10px;
+        border-top: 1px solid orange;
+    }
+    &.-recuadro {
+        color: #DB9600;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        font-weight: 700;
+
+        span.number {
+            background-color: $brand-color-light;
+            color: #fff;
+            width: 55px;
+            height: 55px;
+            margin-right: 1.5rem;
+            line-height: 55px;
+            text-align: center;
+        }
+    }
+}
+
+.bg-azul-claro{
+    background-color: #B7CFDF;
+}
+.bg-azul-claro2{
+    background-color: #D0EFFF;
+}
+.bg-azul4{
+    background-color: #B2E1F8;
+}
+.bg-naranja{
+    background-color: #FEC558;
+}
+
+.cont-flecha {
+    &::before {
+        content: '';
+        border-style: solid;
+        border-width: 28px 20px 0px 20px;
+        border-color: #FEC558 transparent transparent transparent;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 9;
+        transform: translateY(46px);
+    }    
+}
+.bg-azul-claro2{
+    background-color: #BCE5FA;
+}
+.borde-azul{
+    border:1px #50A1C9 solid;
+}
+.text-color-default{
+    color:#12263F;
+}
+
+.title-barra-horizontal {
+    &::after {
+        content: '';
+        position: absolute;
+        left: 41%;
+        transform: translateX(-50%);
+        z-index: 9;
+        transform: translateY(11px);
+        width: 57%;
+        height: 2px;
+        background-color: #FD8F25;
+    }    
+}
+
+.bg-curuva{
+    background-color: #FFC558;
+}
+.bg-rosado{
+    background-color: #FAE7B7;
+}
+.bg-azul-claro{
+    background-color: #BCE5FA;
+}
+.link-default{
+    color: inherit !important;
+    font-weight: bold !important;
+}
+
+.btn-link:after {
+    background: #0a174c !important;
+}
+.bg-azul1{
+    background-color: #4181E6;
+}
+.bg-azul2{
+    background-color: #9DD7FF;
+}
+
+.title-4-1{
+    position: relative;
+    right: 21px;
+    top: -38px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    font-weight: 500;
+    float: right;
+    padding: 7px 35px 7px 35px;
+}
+.bg-purple{
+    background-color: #B7CFDF;
+}
+.bg-azul3{
+    background-color: #E5EFFE;
+}
+.cont-letra{
+    padding: 10px;
+}
+
+.bg-purple-claro{
+    background-color: #EDEDED;
+}
+
+.bg-rojo1{
+    background-color: #FA8A8B;
+}
+.bg-naranja-claro{
+    background-color: #FFDA93;
+}

@@ -1,0 +1,533 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-1",
+    "title": "1. Georreferenciación",
+    "breadcrumb": ["Inicio","tema 1"],
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.1 Objetivos",
+        "anchor": "tema-11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.2 Zonas",
+        "anchor": "tema-12"
+      }
+    ]
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-2",
+    "title": "2. Productos y servicios microfinancieros",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.1 Tipos de productos y servicios",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.2 Características",
+        "anchor": "tema-22"
+      }
+    ]
+  },
+  { 
+    "id": 3,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-3",
+    "title": "3. Normas de etiqueta y protocolo",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.1 Etiqueta",
+        "anchor": "tema-31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.2 Protocolo",
+        "anchor": "tema-32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.3 Manuales",
+        "anchor": "tema-33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-3",
+        "title": "3.4 Manuales administrativos",
+        "anchor": "tema-34"
+      }
+    ]
+  },
+  { 
+    "id": 4,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-4",
+    "title": "4. Inteligencia emocional",
+    "breadcrumb": ["Inicio","tema 4"],
+    "path": "pages/tema-4.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.1 Capacidades",
+        "anchor": "tema-41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.2 Habilidades",
+        "anchor": "tema-42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.3 Resiliencia",
+        "anchor": "tema-43"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.4 Lenguaje verbal",
+        "anchor": "tema-44"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-4",
+        "title": "4.5 Lenguaje no verbal",
+        "anchor": "tema-45"
+      }
+    ]
+  },
+  { 
+    "id": 5,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-5",
+    "title": "5. Gestión de la información",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/tema-5.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.1 Tipos de información",
+        "anchor": "tema-51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-5",
+        "title": "5.2 Métodos de recolección",
+        "anchor": "tema-52"
+      }
+    ]
+  },
+  { 
+    "id": 6,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-6",
+    "title": "6. Tecnologías de la información y la comunicación",
+    "breadcrumb": ["Inicio","tema 6"],
+    "path": "pages/tema-6.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.1 Plataformas tecnológicas",
+        "anchor": "tema-61"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-6",
+        "title": "6.2 Aplicación y usos de procesadores de texto",
+        "anchor": "tema-62"
+      }
+    ]
+  },
+  { 
+    "id": 7,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-7",
+    "title": "7. Técnicas de ventas",
+    "breadcrumb": ["Inicio","tema 7"],
+    "path": "pages/tema-7.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.1 AIDDA",
+        "anchor": "tema-71"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.2 SPIR",
+        "anchor": "tema-72"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.3 AICDC",
+        "anchor": "tema-73"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.4 SPIN",
+        "anchor": "tema-74"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.5 Ofrecer valor agregado",
+        "anchor": "tema-75"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.6 El sitio de venta",
+        "anchor": "tema-76"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.7 Actualización constante",
+        "anchor": "tema-77"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.8 De difusión",
+        "anchor": "tema-78"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.9 Estudio de mercado",
+        "anchor": "tema-79"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.10 Asesoría integral",
+        "anchor": "tema-710"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.11 Parámetros de entrevista",
+        "anchor": "tema-711"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.12 Promoción (marketing digital)",
+        "anchor": "tema-712"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.13 Conocimiento de los competidores",
+        "anchor": "tema-713"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-7",
+        "title": "7.14 Términos y condiciones",
+        "anchor": "tema-714"
+      }
+    ]
+  },
+  { 
+    "id": 8,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-8",
+    "title": "8. Centrales de información",
+    "breadcrumb": ["Inicio","tema 8"],
+    "path": "pages/tema-8.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.1 Buró de crédito",
+        "anchor": "tema-81"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.2 Tipos de consultas",
+        "anchor": "tema-82"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.3 Interpretación",
+        "anchor": "tema-83"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.4 Autorizaciones",
+        "anchor": "tema-84"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-8",
+        "title": "8.5. Reporte de dichas centrales.",
+        "anchor": "tema-85"
+      }
+    ]
+  },
+  { 
+    "id": 9,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-9",
+    "title": "9. Matemáticas financieras",
+    "breadcrumb": ["Inicio","tema 9"],
+    "path": "pages/tema-9.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-9",
+        "title": "9.1 Interés simple",
+        "anchor": "tema-91"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-9",
+        "title": "9.2 Interés compuesto",
+        "anchor": "tema-92"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-9",
+        "title": "9.3 Anualidades",
+        "anchor": "tema-93"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "tema-9",
+        "title": "9.4 Conversión de tasas de interés anuales y periódicas",
+        "anchor": "tema-94"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "tema-9",
+        "title": "9.5 Conversión de tasa efectiva a nominales",
+        "anchor": "tema-95"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-9",
+        "title": "9.6 Conversión de tasa nominal a tasa efectiva",
+        "anchor": "tema-96"
+      }
+    ]
+  },
+  { 
+    "id": 10,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-10",
+    "title": "10. Políticas organizacionales",
+    "breadcrumb": ["Inicio","tema 10"],
+    "path": "pages/tema-10.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-10",
+        "title": "10.1 Lineamientos",
+        "anchor": "tema-101"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-10",
+        "title": "10.2 Requisitos",
+        "anchor": "tema-102"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-10",
+        "title": "10.3 Clases",
+        "anchor": "tema-103"
+      }
+    ]
+  },
+  { 
+    "id": 11,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-11",
+    "title": "11. Verificación de la información",
+    "breadcrumb": ["Inicio","tema 11"],
+    "path": "pages/tema-11.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.1 Técnicas de validación",
+        "anchor": "tema-111"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-11",
+        "title": "11.2 Respaldo de la información",
+        "anchor": "tema-112"
+      }
+    ]
+  },
+  { 
+    "id": 12,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-12",
+    "title": "12. Administración de riesgos",
+    "breadcrumb": ["Inicio","tema 12"],
+    "path": "pages/tema-12.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-12",
+        "title": "12.1 Tipos de riesgos (SARLAFT, SARO, ARAS, SAC)",
+        "anchor": "tema-121"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-12",
+        "title": "12.2 Principios básicos",
+        "anchor": "tema-122"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-12",
+        "title": "12.3 Etapas",
+        "anchor": "tema-123"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-12",
+        "title": "12.4 Criterios para la identificación de alertas y operaciones sospechosas",
+        "anchor": "tema-124"
+      }
+    ]
+  },
+  { 
+    "id": 13,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-13",
+    "title": "13. Propuestas comerciales",
+    "breadcrumb": ["Inicio","tema 13"],
+    "path": "pages/tema-13.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.1 Necesidades del cliente",
+        "anchor": "tema-131"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.2 Tipos de propuestas",
+        "anchor": "tema-132"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.3 Plan táctico",
+        "anchor": "tema-133"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.4 Obligaciones",
+        "anchor": "tema-134"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.5 Argumentación",
+        "anchor": "tema-135"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.6 Cierre comercial",
+        "anchor": "tema-136"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-13",
+        "title": "13.7 Fidelización",
+        "anchor": "tema-137"
+      }
+      
+    ]
+  },
+  { 
+    "id": 14,
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-14",
+    "title": "14. Educación económica y financiera",
+    "breadcrumb": ["Inicio","tema 14"],
+    "path": "pages/tema-14.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-14",
+        "title": "14.1 Presupuesto",
+        "anchor": "tema-141"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-14",
+        "title": "14.2 Ahorro",
+        "anchor": "tema-142"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-14",
+        "title": "14.3 Inversión",
+        "anchor": "tema-143"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-14",
+        "title": "14.4 Inclusión y canales transaccionales",
+        "anchor": "tema-144"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-14",
+        "title": "14.5 Manejo de crédito",
+        "anchor": "tema-145"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-14",
+        "title": "14.6 Tipos de créditos",
+        "anchor": "tema-146"
+      }
+    ]
+  }
+]
